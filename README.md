@@ -33,3 +33,4 @@ Trainable params: 116,443
 Non-trainable params: 0
 _________________________________________________________________
 </pre>
+![Image Comparision](https://github.com/NeuralDreamResearch/ImageUpsampling/blob/main/Screenshot%20from%202023-07-13%2020-53-25.png?raw=true)
