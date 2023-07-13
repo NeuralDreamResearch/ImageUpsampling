@@ -33,4 +33,7 @@ Trainable params: 116,443
 Non-trainable params: 0
 _________________________________________________________________
 </pre>
+This Image is the only image that model was trained on:
 ![Image Comparision](https://github.com/NeuralDreamResearch/ImageUpsampling/blob/main/Screenshot%20from%202023-07-13%2020-53-25.png?raw=true)
+This image is completely unseen:
+![Unseen](https://github.com/NeuralDreamResearch/ImageUpsampling/blob/main/Screenshot%20from%202023-07-13%2021-02-56.png?raw=true)
